@@ -8,3 +8,6 @@
 
 ## Урок 7. Производная функции одной переменной. Часть 2
 [ссылка на задание](https://drive.google.com/file/d/1u5UK088wMLi7az_PfAeJ6DHukmi21Y8H/view)
+
+## Урок 8. Производная функции нескольких переменных. Часть 1
+[ссылка на задание](https://docs.google.com/document/d/1oRcGEcmKfQAKzJ-4A7xa59sEM5OWb7ghVj3hzy7D5o4/edit)
