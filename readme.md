@@ -17,3 +17,6 @@
 
 ## Урок 10. Интеграл. Ряды. Часть 1
 [ссылка на задание](https://drive.google.com/file/d/1hPvvqoOZS5LccJwdV8E_y36bYmKteZ7T/view)
+
+## Урок 11. Интеграл. Ряды. Часть 2
+[ссылка на задание](https://drive.google.com/file/d/185VRBkYTyRG1041vsOTQJ9RhjheZoy-G/view)
