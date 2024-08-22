@@ -13,7 +13,7 @@
 [ссылка на задание](https://docs.google.com/document/d/1oRcGEcmKfQAKzJ-4A7xa59sEM5OWb7ghVj3hzy7D5o4/edit)
 
 ## Урок 9. Производная функции нескольких переменных. Часть 2
-[ссылка на задание](https://drive.google.com/file/d/1p2wHIQXyOL4Z-d_bCPGzk2fE4Fg_DcwS/view)\
+[ссылка на задание](https://drive.google.com/file/d/1p2wHIQXyOL4Z-d_bCPGzk2fE4Fg_DcwS/view)
 
 ## Урок 10. Интеграл. Ряды. Часть 1
 [ссылка на задание](https://drive.google.com/file/d/1hPvvqoOZS5LccJwdV8E_y36bYmKteZ7T/view)
